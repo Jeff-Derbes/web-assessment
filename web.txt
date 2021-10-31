@@ -1,0 +1,9 @@
+At its most basic level, the internet is simply a network of networks, a collection computers that follow a set of rules defined by something known as internet protocol. These rules consist of expliitly defined protocols that determine how networks can identify and send information to one another. 
+
+Information can be shared in a number of ways, but it is commonly used to send and request HTML pages. HTML is a markup language that makes up the skeleton of every web page you visit. When you go to a website, you are considered a client requesting information from a server. Your computer finds the easiest path to the domain name you entered and requests an html page. The server will then take that request and respond with the content.
+
+When you type in a url, you are just typing in the host name of an IP address, which is the specific address of the network you're trying to get information from. This is known as DNS. 
+
+There is a lot more that makes up the data sent between clients and servers than just html. Javascript code, CSS, images, videos are just a few of the types of information to be shared. The main protocol that allows this proccess to take place is the hyper-text transfer protocol, or HTTP. This protocol defines the structure of data packets being sent to and from in a request.
+
+All of this information is usually accessed using a web browser, which is a program designed to handle client-server requests, and takes that information and makes it accessible for the end user. 
